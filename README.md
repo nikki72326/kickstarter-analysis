@@ -16,7 +16,7 @@ Findings show:
 - fundrasing for plays is best supported during spring/early summer 
 - fundrasing for plays is best received for short periods of time, i.e. less than 1 month
 
-![Theater_Outcomes_vs_Launch](https://github.com/nikki72326/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch](https://github.com/nikki72326/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Findings show:
