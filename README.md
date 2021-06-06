@@ -18,7 +18,7 @@ Findings show:
 
 ### Analysis of Outcomes Based on Goals
 Findings show:
-- funding for plays is best supported wwhen goals are less than $1000
+- funding for plays is best supported when goals are less than $1000
 - the client's required amount of $10,000 falls within the 2nd Quartile for success
 
 ## Results
