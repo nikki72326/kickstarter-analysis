@@ -1,12 +1,12 @@
-# Launch Date and Funding Goal Comparison for Kickstarter Crowdfunding for Plays
+# Launch Date and Funding Goal Comparison of Kickstarter Crowdfunding for Plays
 
-## Analysis completed to visualize campaign outcomes based on their launch dates and funding goals
-
-### Purpose
+Analysis completed to visualize campaign outcomes based on their launch dates and funding goals
 
 ## Analysis and Challenges
+Used large database of source data to identify successful and failed funding campaigns based on launch date and fundrasing goal
 
 ### Analysis of Outcomes Based on Launch Date
+
 
 ### Analysis of Outcomes Based on Goals
 
