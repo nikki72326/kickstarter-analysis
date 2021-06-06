@@ -1,6 +1,6 @@
-# Kickstarting with Excel
+# Launch Date and Funding Goal Comparison for Kickstarter Crowdfunding for Plays
 
-## Overview of Project
+## Analysis completed to visualize campaign outcomes based on their launch dates and funding goals
 
 ### Purpose
 
