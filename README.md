@@ -20,7 +20,7 @@ Findings show:
 Findings show:
 - funding for plays is best supported when goals are less than $1000
 - the client's required amount of $10,000 falls within the 2nd Quartile for success
-
+![Outcome_vs_goals](path/to/image_name.png).
 ## Results
 - the best month for the client to launch a crowd funding campaign is May
 - all fundrasing efforts should occur during the early spring
